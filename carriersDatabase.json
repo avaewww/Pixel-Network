@@ -21,6 +21,18 @@
     ]
   },
   {
+    "id": "EG",
+    "carriers": [
+      { "name": "Vodafone EG", "has5G": false, "hasVoLTE": false, "hasVoWiFi": false }
+    ]
+  },
+  {
+    "id": "RO",
+    "carriers": [
+      { "name": "Orange", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true }
+    ]
+  },
+  {
     "id": "TR",
     "carriers": [
       { "name": "Turkcell", "has5G": false, "hasVoLTE": false, "hasVoWiFi": false }
