@@ -2,44 +2,28 @@
   {
     "id": "UA",
     "carriers": [
-      { "name": "Kyivstar", "has5G": false, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "Vodafone UA", "has5G": false, "hasVoLTE": true, "hasVoWiFi": false },
-      { "name": "lifecell", "has5G": "roaming", "hasVoLTE": true, "hasVoWiFi": false }
+      { "name": "Kyivstar", "has5G": false, "hasVoLTE": true, "hasVoWiFi": false },
+      { "name": "Vodafone UA", "has5G": false, "hasVoLTE": false, "hasVoWiFi": false },
+      { "name": "lifecell", "has5G": "roaming", "hasVoLTE": true, "hasVoWiFi": true }
     ]
   },
   {
     "id": "PL",
     "carriers": [
-      { "name": "Play", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "Orange", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "Plus", "has5G": true, "hasVoLTE": true, "hasVoWiFi": false }
-    ]
-  },
-  {
-    "id": "DE",
-    "carriers": [
-      { "name": "Telekom", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "Vodafone DE", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "o2", "has5G": true, "hasVoLTE": true, "hasVoWiFi": false },
-      { "name": "1&1", "has5G": true, "hasVoLTE": false, "hasVoWiFi": false }
+      { "name": "Orange", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true }
     ]
   },
   {
     "id": "IT",
     "carriers": [
       { "name": "TIM", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "Vodafone IT", "has5G": true, "hasVoLTE": true, "hasVoWiFi": false },
-      { "name": "WindTre", "has5G": true, "hasVoLTE": true, "hasVoWiFi": false },
-      { "name": "Iliad", "has5G": true, "hasVoLTE": false, "hasVoWiFi": false }
+      { "name": "WindTre", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true }
     ]
   },
   {
-    "id": "US",
+    "id": "TR",
     "carriers": [
-      { "name": "T-Mobile", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "AT&T", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "Verizon", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true },
-      { "name": "US Cellular", "has5G": true, "hasVoLTE": true, "hasVoWiFi": false }
+      { "name": "Turkcell", "has5G": false, "hasVoLTE": false, "hasVoWiFi": false }
     ]
   }
 ]
