@@ -33,7 +33,6 @@
       { "name": "Orange", "has5G": true, "hasVoLTE": true, "hasVoWiFi": true }
     ]
   },
-  },
   {
     "id": "GB",
     "carriers": [
